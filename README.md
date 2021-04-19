@@ -21,4 +21,4 @@ One could add:
 - history of uploaded images
 - api for health care providers
 
-![skin_cancer_app_demo](https://user-images.githubusercontent.com/63105659/115282608-aef6e500-a14a-11eb-9e9a-1c8f41daf042.gif)
+![skin_cancer_app_demo](https://user-images.githubusercontent.com/63105659/115283256-68ee5100-a14b-11eb-9a54-b29fcd0f9e20.gif)
